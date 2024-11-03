@@ -1,5 +1,5 @@
 Open Weather step by step guide of how to run Spring boot application
-1.	Git clone application and set up in your favorite IDE (Eclipse or Gradle).
+1.	Git clone application and set up in your favorite IDE (Eclipse or Gradle) from following url -> https://github.com/838487/OpenWeatherReport.git.
 2.	Run file SpringbootbackendApplication.java file.
 3.	Open postman and hit Http GET request as below:
 localhost:8080/api/openweathermap/getweather?city=delhi&ctyCode=in&appid=fed9f0beee9f21fd6b74d7dad89225d9
